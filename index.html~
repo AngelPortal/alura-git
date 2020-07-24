@@ -2,16 +2,14 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Titulo Modificado Aumentado Modificando após Push de Ana</title>
+    <title>Titulo Modificado Aumentado</title>
 </head>
 <body>
     <ul>
         <li>Vagrant</li>
         <li>Docker</li>
-        <li>Mais um Titulo<li>
         <li>Ansible</li>
         <li>Modificando o nome do Curso de Integração Continua</li>
-        <li>Novo Curso<li>
     </ul>
 <body>
 <html>
